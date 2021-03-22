@@ -1,0 +1,345 @@
+final_data : {
+	-teams : {
+		-no_of_teams :
+		-individual_teams : {
+			-no_of_players : 
+			-batsman : {
+				-no_of_batsman : 
+				-individual_batsman_name : {
+					-personal_information : {
+						-born : 
+						-birth_place : 
+						-height : 
+						-role : 
+						-batting_style :
+						-bowling_style :
+					}
+					-batting_carrer_summary : {
+						-ODI : {
+							-matches :
+							-innings :
+							-not_outs :
+							-runs : 
+							-highest_score : 
+							-average_score :
+							-no_of_balls_faced :
+							-strike_rate :
+							-100 :
+							-200 :
+							-50 :
+							-4s :
+							-6s :
+						}
+						-t20 : {
+							-matches :
+							-innings :
+							-not_outs :
+							-runs : 
+							-highest_score : 
+							-average_score :
+							-no_of_balls_faced :
+							-strike_rate :
+							-100 :
+							-200 :
+							-50 :
+							-4s :
+							-6s :
+						}
+						-ipl : {
+							-matches :
+							-innings :
+							-not_outs :
+							-runs : 
+							-highest_score : 
+							-average_score :
+							-no_of_balls_faced :
+							-strike_rate :
+							-100 :
+							-200 :
+							-50 :
+							-4s :
+							-6s :
+						}
+					}
+					-bowling_carrer_summary : {
+						-odi : {
+							-matches : 
+							-innings : 
+							-no_of_balls_bowled :
+							-Runs : 
+							-wickets :
+							-best_bowling_in_innings : 
+							-best_bowling_in_matches :
+							-economy :
+							-average :
+							-bowling_strike_rate : 
+							-5w : 
+							-10w :
+						}
+						-t20 : {
+							-matches : 
+							-innings : 
+							-no_of_balls_bowled :
+							-Runs : 
+							-wickets :
+							-best_bowling_in_innings : 
+							-best_bowling_in_matches :
+							-economy :
+							-average :
+							-bowling_strike_rate : 
+							-5w : 
+							-10w :
+						}
+						-ipl : { 
+							-matches : 
+							-innings : 
+							-no_of_balls_bowled :
+							-Runs : 
+							-wickets :
+							-best_bowling_in_innings : 
+							-best_bowling_in_matches :
+							-economy :
+							-average :
+							-bowling_strike_rate : 
+							-5w : 
+							-10w :
+						}
+					}
+					-career_information : {
+						-odi_debut : 
+						-last_odi : 
+						- t20_debut : 
+						-last_t20 : 
+						-ipl_debut : 
+						-last_ipl :
+					}	
+				}
+			}
+			-all-rounder : {
+				-no_of_all-rounders :
+				-individual_all-rounders : {
+					-personal_information : {
+						-born : 
+						-birth_place : 
+						-height : 
+						-role : 
+						-batting_style :
+						-bowling_style :
+					}
+					-batting_carrer_summary : {
+						-ODI : {
+							-matches :
+							-innings :
+							-not_outs :
+							-runs : 
+							-highest_score : 
+							-average_score :
+							-no_of_balls_faced :
+							-strike_rate :
+							-100 :
+							-200 :
+							-50 :
+							-4s :
+							-6s :
+						}
+						-t20 : {
+							-matches :
+							-innings :
+							-not_outs :
+							-runs : 
+							-highest_score : 
+							-average_score :
+							-no_of_balls_faced :
+							-strike_rate :
+							-100 :
+							-200 :
+							-50 :
+							-4s :
+							-6s :
+						}
+						-ipl : {
+							-matches :
+							-innings :
+							-not_outs :
+							-runs : 
+							-highest_score : 
+							-average_score :
+							-no_of_balls_faced :
+							-strike_rate :
+							-100 :
+							-200 :
+							-50 :
+							-4s :
+							-6s :
+						}
+					}
+					-bowling_carrer_summary : {
+						-odi : {
+							-matches : 
+							-innings : 
+							-no_of_balls_bowled :
+							-Runs : 
+							-wickets :
+							-best_bowling_in_innings : 
+							-best_bowling_in_matches :
+							-economy :
+							-average :
+							-bowling_strike_rate : 
+							-5w : 
+							-10w :
+						}
+						-t20 : {
+							-matches : 
+							-innings : 
+							-no_of_balls_bowled :
+							-Runs : 
+							-wickets :
+							-best_bowling_in_innings : 
+							-best_bowling_in_matches :
+							-economy :
+							-average :
+							-bowling_strike_rate : 
+							-5w : 
+							-10w :
+						}
+						-ipl : { 
+							-matches : 
+							-innings : 
+							-no_of_balls_bowled :
+							-Runs : 
+							-wickets :
+							-best_bowling_in_innings : 
+							-best_bowling_in_matches :
+							-economy :
+							-average :
+							-bowling_strike_rate : 
+							-5w : 
+							-10w :
+						}
+					}
+					-career_information : {
+						-odi_debut : 
+						-last_odi : 
+						- t20_debut : 
+						-last_t20 : 
+						-ipl_debut : 
+						-last_ipl :
+					}	
+				}
+			}
+			-bowler : {
+				-no_of_bowler : 
+				-individual_bowler : {
+					-personal_information : {
+						-born : 
+						-birth_place : 
+						-height : 
+						-role : 
+						-batting_style :
+						-bowling_style :
+					}
+					-batting_carrer_summary : {
+						-ODI : {
+							-matches :
+							-innings :
+							-not_outs :
+							-runs : 
+							-highest_score : 
+							-average_score :
+							-no_of_balls_faced :
+							-strike_rate :
+							-100 :
+							-200 :
+							-50 :
+							-4s :
+							-6s :
+						}
+						-t20 : {
+							-matches :
+							-innings :
+							-not_outs :
+							-runs : 
+							-highest_score : 
+							-average_score :
+							-no_of_balls_faced :
+							-strike_rate :
+							-100 :
+							-200 :
+							-50 :
+							-4s :
+							-6s :
+						}
+						-ipl : {
+							-matches :
+							-innings :
+							-not_outs :
+							-runs : 
+							-highest_score : 
+							-average_score :
+							-no_of_balls_faced :
+							-strike_rate :
+							-100 :
+							-200 :
+							-50 :
+							-4s :
+							-6s :
+						}
+					}
+					-bowling_carrer_summary : {
+						-odi : {
+							-matches : 
+							-innings : 
+							-no_of_balls_bowled :
+							-Runs : 
+							-wickets :
+							-best_bowling_in_innings : 
+							-best_bowling_in_matches :
+							-economy :
+							-average :
+							-bowling_strike_rate : 
+							-5w : 
+							-10w :
+						}
+						-t20 : {
+							-matches : 
+							-innings : 
+							-no_of_balls_bowled :
+							-Runs : 
+							-wickets :
+							-best_bowling_in_innings : 
+							-best_bowling_in_matches :
+							-economy :
+							-average :
+							-bowling_strike_rate : 
+							-5w : 
+							-10w :
+						}
+						-ipl : { 
+							-matches : 
+							-innings : 
+							-no_of_balls_bowled :
+							-Runs : 
+							-wickets :
+							-best_bowling_in_innings : 
+							-best_bowling_in_matches :
+							-economy :
+							-average :
+							-bowling_strike_rate : 
+							-5w : 
+							-10w :
+						}
+					}
+					-career_information : {
+						-odi_debut : 
+						-last_odi : 
+						- t20_debut : 
+						-last_t20 : 
+						-ipl_debut : 
+						-last_ipl :
+					}	
+				}
+			}
+		}
+	}
+			
+}
